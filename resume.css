@@ -1,0 +1,21 @@
+body {
+	background-color: navy;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+ul li {
+	font-weight: bold;
+	font-size: 18px;
+}
+
+ul li ul li {
+	font-size: 16px;
+}
+
+ul li ul li {
+	font-size: 14px;
+}
